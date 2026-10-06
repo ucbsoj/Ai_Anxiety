@@ -113,9 +113,7 @@
 	<img src={cover} alt="cover" />
 	<div class="cover-text">
 		<h1 class="jersey-15-regular">
-			China AI Gold Rush, <br /> everyone wants to get on the table <br /><mark
-				>But... At what costs?</mark
-			>
+			China's AI Gold Rush: <br /> Everyone wants wants a piece, <br /><mark>but, at what cost?</mark>
 		</h1>
 		<p class="cover-byline">By Yaelle Tang · May 4,2026</p>
 	</div>
@@ -151,25 +149,26 @@
 			<mark>The Wild AI Gold Rush</mark>
 		</h2>
 		<p>
-			OpenClaw, the tool Heisenberg spent five hours trying to install, is an open-source AI agent.
-			It was built by Peter Steinberger, an Austrian developer who started it as a side project
-			alongside his regular job. He released it in late January 2026.
+			OpenClaw, a tool Heisenberg spent five hours trying to install, is an open-source "AI agent."
+			It was built by an Austrian developer, Peter Steinberger, who started it as a side project
+			alongside his regular job in late January 2026.
 		</p>
 		<p>
-			The idea behind OpenClaw is conceptually simple: it does things on your behalf. It replies to
-			your emails, manages your files, browses the web, writes code. You don't need special
-			software. You just use messaging apps you already have. But to do all of that, it needs
+			The idea behind OpenClaw is conceptually simple: it does tasks on your behalf. It replies to
+			your emails, manages your files, browses the web, and even writes code. You don't need special
+			software. You give it orders using messaging apps. But to do all of that, it needs
 			something significant in return: deep, largely unsupervised access to your computer.
 		</p>
 		<p>What happened next was without precedent in the history of open-source software.</p>
 		<StarChart />
 		<p>
 			Within weeks, "lobster farming" had become cultural shorthand for the practice of configuring,
-			training, and tending to your AI agent. Communities formed on Rednote and WeChat. Tutorials
+			training, and tending numerous OpenClaw AI agents, named after the OpenClaw mascot logo. Communities 
+			formed on Chinese social media sites Rednote and WeChat. Tutorials
 			proliferated. Offline meetups appeared seemingly overnight in Shenzhen's tech parks and
 			Beijing's university districts. People traded "lobster farming techniques", how to set up
-			local knowledge bases, which model providers to trust, how to stop your lobster from being
-			dangerous.
+			local knowledge bases, which model providers to trust, and most importantly, how to stop your lobster 
+			from becoming dangerous.
 		</p>
 		<TokenModel />
 		<p>
@@ -177,12 +176,12 @@
 			infrastructure, such as Alibaba Cloud, MiniMax's own API, Zhipu AI's platform.
 		</p>
 		<p>
-			Of the top 20 models running on OpenClaw, 12 were built in China, according to OpenRouter, a
+			Of the top 20 models running on OpenClaw, 12 were built in China according to OpenRouter, a
 			service that routes AI queries across hundreds of model providers and logs every token in
 			transit.
 		</p>
 		<p>
-			Group by provider, Anthropic led all others, but the next three spots belonged to Chinese
+			Grouped by provider, Anthropic led all others, but the next three spots belonged to Chinese
 			companies.
 		</p>
 		<CompanyChart />
